@@ -19,7 +19,7 @@ public class CalcularMedia {
 
     public double getMedia() {
         if (media >= 7) {
-            System.out.println("Aprovado!!");
+            System.out.println("Aprovado");
         } else if (media >= 4 && media < 7) {
             System.out.println("Recuperação");
         } else {
