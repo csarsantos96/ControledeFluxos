@@ -8,7 +8,7 @@ public class TabuadaWhile {
         System.out.println("Deseja gerar a tabuada de algum número?");
         String resposta = s.next();
 
-        while(resposta.equals("Sim")){
+        while(resposta.equalsIgnoreCase("Sim")){
             System.out.println("Digite um número para gerar a tabudada: ");
             int num = s.nextInt();
             for(int i = 0; i<=10;i++){
