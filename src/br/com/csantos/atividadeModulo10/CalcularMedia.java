@@ -1,4 +1,4 @@
-package br.com.csantos.atividadeModulo11;
+package br.com.csantos.atividadeModulo10;
 
 public class CalcularMedia {
 
