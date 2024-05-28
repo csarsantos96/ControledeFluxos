@@ -9,7 +9,7 @@ public class Main {
         System.out.println("Digite a primeira nota: ");
         double nota1 = scanner.nextDouble();
 
-        System.out.println("Digite a segunda nota: ");
+        System.out.println("Digite a 2 nota: ");
         double nota2 = scanner.nextDouble();
 
         System.out.println("Digite a terceira nota: ");
